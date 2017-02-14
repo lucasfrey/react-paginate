@@ -1,0 +1,35 @@
+{
+  "name": "heyday-react-pagination",
+  "version": "0.0.1",
+  "description": "A ReactJS component that creates a pagination.",
+  "main": "./index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "keywords": [
+    "react-component",
+    "paginate",
+    "paginator",
+    "pagination"
+  ],
+  "author": {
+    "name": "Lucas Frey",
+    "email": "lucas.frey@heyday.co.nz"
+  },
+  "dependencies": {
+    "react": ">=0.14.0",
+    "react-dom": ">=0.14.0",
+    "classnames": "^2.2.0",
+    "react-tappable": "^0.7.1"
+  },
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.heyday.net.nz:1234/heyday/react-mobile-menu.git"
+  },
+  "scripts": {},
+  "version": "1.0.0-alpha.1"
+}
